@@ -13,6 +13,7 @@
 		9AEAD9D72A25FEF8000B459F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9AEAD9D52A25FEF8000B459F /* Main.storyboard */; };
 		9AEAD9D92A25FEF8000B459F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9AEAD9D82A25FEF8000B459F /* Assets.xcassets */; };
 		9AEAD9DC2A25FEF8000B459F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9AEAD9DA2A25FEF8000B459F /* LaunchScreen.storyboard */; };
+		9AEAD9E42A25FF81000B459F /* 75646856.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 9AEAD9E32A25FF81000B459F /* 75646856.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9AEAD9D82A25FEF8000B459F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9AEAD9DB2A25FEF8000B459F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9AEAD9DD2A25FEF8000B459F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9AEAD9E32A25FF81000B459F /* 75646856.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = 75646856.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				9AEAD9CF2A25FEF8000B459F /* AppDelegate.swift */,
 				9AEAD9D12A25FEF8000B459F /* SceneDelegate.swift */,
+				9AEAD9E32A25FF81000B459F /* 75646856.pdf */,
 				9AEAD9D32A25FEF8000B459F /* ViewController.swift */,
 				9AEAD9D52A25FEF8000B459F /* Main.storyboard */,
 				9AEAD9D82A25FEF8000B459F /* Assets.xcassets */,
@@ -128,6 +131,7 @@
 				9AEAD9DC2A25FEF8000B459F /* LaunchScreen.storyboard in Resources */,
 				9AEAD9D92A25FEF8000B459F /* Assets.xcassets in Resources */,
 				9AEAD9D72A25FEF8000B459F /* Main.storyboard in Resources */,
+				9AEAD9E42A25FF81000B459F /* 75646856.pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
